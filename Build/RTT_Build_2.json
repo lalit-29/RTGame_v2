@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "ReactionTimeTask_Web_v2",
+"productVersion": "0.2",
+"dataUrl": "RTT_Build_2.data.unityweb",
+"wasmCodeUrl": "RTT_Build_2.wasm.code.unityweb",
+"wasmFrameworkUrl": "RTT_Build_2.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.11f1"
+}
